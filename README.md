@@ -13,11 +13,6 @@
 <hr>
 <h3>Thanks for selecting us!</h3>
 <h4>Made by ~cM</h4>
-<h5>More Info: </h5>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/cMardc/Random_Password_Generator)
-![GitHub Repo stars](https://img.shields.io/github/stars/cMardc/Random_Password_Generator)
-
 
 
 <h5>Other links : </h5>
